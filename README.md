@@ -39,14 +39,14 @@ python cli.py --symbol BTCUSDT --side SELL --order-type LIMIT --quantity 0.001 -
 python cli.py --symbol BTCUSDT --side SELL --order-type STOP_LIMIT --quantity 0.001 --price 69000 --stop-price 69500
 ```
 ## Logging
--Logs are written to logs/trading_bot.log
--Logs include API requests, responses, and error details
--The log file contains at least one MARKET order and one LIMIT order as required
+- Logs are written to logs/trading_bot.log
+- Logs include API requests, responses, and error details
+- The log file contains at least one MARKET order and one LIMIT order as required
 
 ## Assumptions & Notes
--Uses Binance Futures Testnet (USDT-M) only
--Binance Testnet may return partial order responses for some order types
--Missing response fields are handled defensively in the code
+- Uses Binance Futures Testnet (USDT-M) only
+- Binance Testnet may return partial order responses for some order types
+- Missing response fields are handled defensively in the code
 
 ## Project Structure
 ```bash
@@ -61,4 +61,6 @@ trading_bot/
   requirements.txt
   logs/
 ```
+
+### Thank You !!!
 
