@@ -1,0 +1,15 @@
+2026-02-05 00:27:07,876 | INFO | bot.client | Initialized Binance Futures Testnet client
+2026-02-05 00:27:07,878 | INFO | bot.client | Placing order with params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-02-05 00:27:08,661 | INFO | bot.client | Order placed successfully: {}
+2026-02-05 00:41:11,135 | INFO | bot.client | Initialized Binance Futures Testnet client
+2026-02-05 00:41:11,135 | INFO | bot.client | Placing order with params: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.001, 'price': 70000.0, 'timeInForce': 'GTC'}
+2026-02-05 00:41:11,833 | INFO | bot.client | Order placed successfully: {}
+2026-02-05 00:55:25,772 | INFO | bot.client | Initialized Binance Futures Testnet client
+2026-02-05 00:55:25,775 | INFO | bot.client | Placing order with params: {'symbol': 'BTCUSDT', 'side': 'SELL', 'quantity': 0.001, 'type': 'STOP', 'price': 69000.0, 'stopPrice': 69500.0, 'timeInForce': 'GTC'}
+2026-02-05 00:55:26,134 | INFO | bot.client | Order placed successfully: {}
+2026-02-05 01:08:30,796 | INFO | bot.client | Initialized Binance Futures Testnet client
+2026-02-05 01:08:30,798 | INFO | bot.client | Placing order with params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'quantity': 0.001, 'type': 'MARKET'}
+2026-02-05 01:08:31,198 | INFO | bot.client | Order placed successfully: {}
+2026-02-05 01:08:41,911 | INFO | bot.client | Initialized Binance Futures Testnet client
+2026-02-05 01:08:41,914 | INFO | bot.client | Placing order with params: {'symbol': 'BTCUSDT', 'side': 'BUY', 'quantity': 0.001, 'type': 'MARKET'}
+2026-02-05 01:08:42,169 | INFO | bot.client | Order placed successfully: {}
